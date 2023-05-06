@@ -4,24 +4,19 @@ Crown Clothing is a React-based e-commerce application for a clothing store. The
 
 ## Installation
 
-To run Crown Clothing on your machine, follow these steps:
+### To run Crown Clothing on your machine, follow these steps:
 
-Clone the repository using the following command:
-# Copy code
+### Clone the repository using the following command:
 `git clone https://github.com/your-username/crown-clothing.git`
 
-Navigate to the project directory:
-# Copy code
+### Navigate to the project directory:
 `cd crown-clothing`
 
-Install the project dependencies using npm:
-# Copy code
+### Install the project dependencies using npm and start local environment:
 `npm install`
-
-# Copy code
 `npm start`
 
-# Open the application in your browser at http://localhost:3000.
+Open the application in your browser at `http://localhost:3000`
 
 ## Features
 
