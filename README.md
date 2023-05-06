@@ -14,6 +14,7 @@ Crown Clothing is a React-based e-commerce application for a clothing store. The
 
 ### Install the project dependencies using npm and start local environment:
 `npm install`
+
 `npm start`
 
 Open the application in your browser at `http://localhost:3000`
